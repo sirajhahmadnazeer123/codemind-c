@@ -19,3 +19,4 @@ int main()
         printf("not a prime");
     }
 }
+ 
